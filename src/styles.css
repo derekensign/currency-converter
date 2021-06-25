@@ -1,0 +1,27 @@
+body {
+  background: url("https://marandarussell.files.wordpress.com/2018/08/scrooge.jpg?w=600&h=451");
+  background-size: cover;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.input {
+  border: 1px solid black;
+  border-radius: 0.5em;
+  padding: 0.25rem;
+  width: 7em;
+  margin: 1em;
+}
+
+select {
+  margin-left: 2px;
+}
+
+h1 {
+  margin-bottom: 3rem;
+  font-family: "Mouse Memoirs", sans-serif;
+}
